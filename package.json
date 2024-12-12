@@ -1,0 +1,11 @@
+{
+  "name": "rovo-agent-rovo",
+  "version": "1.2.0",
+  "description": "An agent for analyzing sentiment of a user's message",
+  "main": "index.js",
+  "private": true,
+  "license": "MIT",
+  "dependencies": {
+    "@forge/api": "^4.1.2"
+  }
+}
